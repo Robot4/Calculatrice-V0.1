@@ -1,4 +1,4 @@
-# Calculatrice-V0.1
+# Calculatrice.C
 
 https://imgur.com/AWHPZaB
 
